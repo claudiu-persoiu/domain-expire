@@ -6,4 +6,4 @@ As https://letsencrypt.org/ is dropping notifications for domain expiration noti
 
     $ go run main.go google.com
 
-The return value is in days.
+The return value is in days, for convenience to integrate into automations.
