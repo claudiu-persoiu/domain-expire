@@ -7,4 +7,4 @@ As https://letsencrypt.org/ is dropping notifications for domain expiration noti
     $ go build -o domain
     $ ./domain google.com
 
-The return value is in days, for convenience to integrate into automations.
+The return value is in days, for convenience, to be easily integrated into automations.
