@@ -44,6 +44,7 @@ command_line:
 5. Change ``Google.com`` to your domain
 6. Enjoy your new sensors and alerts!
 
+--------
 
 DISCLAIMER
 
