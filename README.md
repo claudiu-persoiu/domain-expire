@@ -41,7 +41,8 @@ command_line:
         clickAction: "/lovelace/default_view"
     service: notify.ALL_DEVICES
 ```
-5. Enjoy your new sensors and alerts!
+5. Change ``Google.com`` to your domain
+6. Enjoy your new sensors and alerts!
 
 
 DISCLAIMER
