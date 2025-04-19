@@ -24,6 +24,7 @@ command_line:
          scan_interval: 43200
 ```
 (Note: you may need to adjust the command path depending on your config path)
+
 4. (Optional) Trigger an alert on your phone from HA companion app, in your ``/config/automations`` folder create a file called ``domain.yaml`` and paste the code below:
 ```
 - id: domain_alert
